@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.jgroups</groupId>
-    <artifactId>jgroups</artifactId>
+    <artifactId>com.saaconsultants.jgroups</artifactId>
     <packaging>bundle</packaging>
     <name>JGroups</name>
-    <version>3.6.12-SNAPSHOT</version>
+    <version>3.6.12_1</version>
     <url>http://www.jgroups.org</url>
 
     <properties>
